@@ -13,8 +13,8 @@ spring:
   mail:
       host: smtp.gmail.com
       port: 587
-      username: sendmail1.swp391@gmail.com
-      password: kuks mghr rqom gnwx
+      username: --enter your email--
+      password: --enter password--
       properties:
         mail:
           smtp:
