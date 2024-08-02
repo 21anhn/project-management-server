@@ -1,7 +1,8 @@
-package com._anhn.services;
+package com._anhn.services.impl;
 
 import com._anhn.models.Chat;
 import com._anhn.repositories.ChatRepository;
+import com._anhn.services.ChatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

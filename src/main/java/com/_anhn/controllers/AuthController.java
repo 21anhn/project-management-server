@@ -4,7 +4,7 @@ import com._anhn.config.JwtProvider;
 import com._anhn.models.User;
 import com._anhn.request.LoginRequest;
 import com._anhn.response.AuthResponse;
-import com._anhn.services.CustomUserDetailsImpl;
+import com._anhn.services.impl.CustomUserDetailsImpl;
 import com._anhn.services.SubscriptionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

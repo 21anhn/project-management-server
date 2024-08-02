@@ -1,10 +1,13 @@
-package com._anhn.services;
+package com._anhn.services.impl;
 
 import com._anhn.models.Issue;
 import com._anhn.models.Project;
 import com._anhn.models.User;
 import com._anhn.repositories.IssueRepository;
 import com._anhn.request.IssueRequest;
+import com._anhn.services.IssueService;
+import com._anhn.services.ProjectService;
+import com._anhn.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
